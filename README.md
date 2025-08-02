@@ -50,5 +50,4 @@ To run the project:
 ## 📬 Contributions
 
 This is a beginner-friendly project. Feel free to fork, improve, or contribute! ❤️
-
 ---
